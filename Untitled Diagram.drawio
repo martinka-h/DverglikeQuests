@@ -1,9 +1,21 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0" version="27.1.5">
   <diagram name="Page-1" id="g6TqFf-J95rABQfKAAWV">
-    <mxGraphModel dx="1774" dy="1749" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4775" dy="4960" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="1TwS_bmIdJYbr3fNDJlL-325" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="2470" y="-1180" width="2970" height="880" as="geometry" />
+        </mxCell>
+        <mxCell id="1TwS_bmIdJYbr3fNDJlL-343" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4190" y="-1130" width="1200" height="820" as="geometry" />
+        </mxCell>
+        <mxCell id="1TwS_bmIdJYbr3fNDJlL-314" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2790" y="-1130" width="1200" height="820" as="geometry" />
+        </mxCell>
+        <mxCell id="1TwS_bmIdJYbr3fNDJlL-261" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="2490" y="-130" width="2590" height="1090" as="geometry" />
+        </mxCell>
         <mxCell id="1TwS_bmIdJYbr3fNDJlL-255" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="4450" y="130" width="610" height="520" as="geometry" />
         </mxCell>
@@ -38,9 +50,9 @@
           <mxGeometry x="940" y="-60" width="460" height="510" as="geometry" />
         </mxCell>
         <mxCell id="1TwS_bmIdJYbr3fNDJlL-81" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="50" y="-20" width="750" height="960" as="geometry" />
+          <mxGeometry x="50" y="-100" width="830" height="1040" as="geometry" />
         </mxCell>
-        <mxCell id="FYnC16tskqoebnY5So_8-1" value="Våkner opp.&lt;br&gt;&lt;span style=&quot;color: rgb(255, 0, 0);&quot;&gt;Quest: Gå til kantinen for å få mat&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="FYnC16tskqoebnY5So_8-1" value="Våkner opp.&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-425" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FYnC16tskqoebnY5So_8-3" value="Kantine" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
@@ -568,12 +580,6 @@
             <mxPoint x="209" y="167" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1TwS_bmIdJYbr3fNDJlL-179" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-329" y="181.5" as="sourcePoint" />
-            <mxPoint x="-330" y="213.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="1TwS_bmIdJYbr3fNDJlL-180" value="Update quest:&lt;br&gt;Next stage" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="151" y="166.5" width="130" height="40" as="geometry" />
         </mxCell>
@@ -811,6 +817,266 @@
         </mxCell>
         <mxCell id="1TwS_bmIdJYbr3fNDJlL-260" value="&lt;i&gt;Hvor får jeg tak i piler å skyte med?&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="4490" y="475" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1TwS_bmIdJYbr3fNDJlL-265" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="4390" y="300" as="sourcePoint" />
+            <mxPoint x="4440" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1TwS_bmIdJYbr3fNDJlL-266" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="1TwS_bmIdJYbr3fNDJlL-267">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="4340" y="240" as="sourcePoint" />
+            <mxPoint x="4340" y="182" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1TwS_bmIdJYbr3fNDJlL-267" value="Add to inventory:&lt;br&gt;&lt;div&gt;Bue&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="4280" y="130" width="120" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="1TwS_bmIdJYbr3fNDJlL-268" value="&lt;div&gt;Quest: Første bue (crafting)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="2490" y="-190" width="2590" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1TwS_bmIdJYbr3fNDJlL-269" value="Quest: A new axe &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2890" y="-1060" width="180" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="1TwS_bmIdJYbr3fNDJlL-270" value="Stage 1" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2900" y="-1010" width="160" height="110" as="geometry">
+            <mxRectangle x="510" width="40" height="70" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1TwS_bmIdJYbr3fNDJlL-271" value="Trade the old axe for a new one at the blacksmith." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1TwS_bmIdJYbr3fNDJlL-270">
+          <mxGeometry x="30" y="15" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1TwS_bmIdJYbr3fNDJlL-272" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2850" y="-590" width="260" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="1TwS_bmIdJYbr3fNDJlL-273" value="Øksstedet" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="2920" y="-840" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1TwS_bmIdJYbr3fNDJlL-274" value="Øksmannen" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="2920" y="-820" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1TwS_bmIdJYbr3fNDJlL-275" value="&lt;div&gt;&lt;i&gt;Hva er det du vil?! Ser du ikke at jeg er opptatt..&lt;/i&gt;&lt;/div&gt;&lt;div&gt;&lt;i&gt;(...)&lt;/i&gt;&lt;/div&gt;&lt;div&gt;&lt;i&gt;Beklager, vaktene får meg til å jobbe overtid og jeg kunne trengt noe hjelp her omkring. &lt;br&gt;&lt;/i&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2850" y="-800" width="260" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="1TwS_bmIdJYbr3fNDJlL-276" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" source="1TwS_bmIdJYbr3fNDJlL-275" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2960" y="-570" as="sourcePoint" />
+            <mxPoint x="2980" y="-590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1TwS_bmIdJYbr3fNDJlL-277" value="&lt;i&gt;Jeg ble sendt av buemannen for å hente en ny øks.&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2860" y="-580" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1TwS_bmIdJYbr3fNDJlL-280" value="For å få en ny øks må du levere inn den gamle. Vi kaster ingenting som kan brukes igjen her i byen!" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3390" y="-512" width="250" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="1TwS_bmIdJYbr3fNDJlL-281" value="Øksmannen" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="3455" y="-532" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1TwS_bmIdJYbr3fNDJlL-284" value="&lt;i&gt;Hvordan smelter jeg ores?&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2860" y="-530" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1TwS_bmIdJYbr3fNDJlL-285" value="&lt;i&gt;(Avslutt samtale)&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2860" y="-480" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1TwS_bmIdJYbr3fNDJlL-290" value="*Si noe om den gamle øksen*. Jeg har ikke fått gjort ferdig den nye øksen enda. Jeg trenger å smelte jern, om du hjelper meg med det skal jeg fullføre den med en gang." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3390" y="-680" width="250" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="1TwS_bmIdJYbr3fNDJlL-291" value="Øksmannen" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="3455" y="-700" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1TwS_bmIdJYbr3fNDJlL-292" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="1TwS_bmIdJYbr3fNDJlL-277">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3150" y="-560" as="sourcePoint" />
+            <mxPoint x="3320" y="-560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1TwS_bmIdJYbr3fNDJlL-294" value="Har gammel øks i inventory?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="3120" y="-590" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1TwS_bmIdJYbr3fNDJlL-295" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3320" y="-560" as="sourcePoint" />
+            <mxPoint x="3390" y="-610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1TwS_bmIdJYbr3fNDJlL-296" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3320" y="-560" as="sourcePoint" />
+            <mxPoint x="3390" y="-510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1TwS_bmIdJYbr3fNDJlL-297" value="&lt;div&gt;True&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="3315" y="-612" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1TwS_bmIdJYbr3fNDJlL-298" value="&lt;div&gt;False&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="3315" y="-532" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1TwS_bmIdJYbr3fNDJlL-299" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="1TwS_bmIdJYbr3fNDJlL-290">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3420" y="-710" as="sourcePoint" />
+            <mxPoint x="3680" y="-645" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1TwS_bmIdJYbr3fNDJlL-300" value="&lt;div&gt;Remove from inventory:&lt;/div&gt;&lt;div&gt;Gammel øks&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="3680" y="-667.5" width="120" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="1TwS_bmIdJYbr3fNDJlL-301" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3800" y="-645.29" as="sourcePoint" />
+            <mxPoint x="3840" y="-645.29" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1TwS_bmIdJYbr3fNDJlL-302" value="&lt;div&gt;Add to inventory: &lt;br&gt;&lt;/div&gt;&lt;div&gt;3 iron ore&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="3840" y="-667.5" width="120" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="1TwS_bmIdJYbr3fNDJlL-303" value="Quest: A new axe &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3531" y="-1070" width="180" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="1TwS_bmIdJYbr3fNDJlL-304" value="Stage 2" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3541" y="-1020" width="160" height="110" as="geometry">
+            <mxRectangle x="510" width="40" height="70" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1TwS_bmIdJYbr3fNDJlL-305" value="Lag 3 iron bar for øksmannen." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1TwS_bmIdJYbr3fNDJlL-304">
+          <mxGeometry x="30" y="15" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1TwS_bmIdJYbr3fNDJlL-306" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="1TwS_bmIdJYbr3fNDJlL-302" target="1TwS_bmIdJYbr3fNDJlL-308">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3900" y="-660" as="sourcePoint" />
+            <mxPoint x="3900" y="-710" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1TwS_bmIdJYbr3fNDJlL-308" value="&lt;div&gt;Update quest:&lt;/div&gt;&lt;div&gt;Stage 2&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="3840" y="-760" width="120" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="1TwS_bmIdJYbr3fNDJlL-311" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="1TwS_bmIdJYbr3fNDJlL-272">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3900" y="-760" as="sourcePoint" />
+            <mxPoint x="3950" y="-810" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="3900" y="-810" />
+              <mxPoint x="3300" y="-810" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1TwS_bmIdJYbr3fNDJlL-312" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="1TwS_bmIdJYbr3fNDJlL-280" target="1TwS_bmIdJYbr3fNDJlL-272">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3220" y="-480" as="sourcePoint" />
+            <mxPoint x="3270" y="-530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1TwS_bmIdJYbr3fNDJlL-313" value="Spilleren må crafte 3 iron bars fra 3 iron ore." style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="4040" y="-685" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1TwS_bmIdJYbr3fNDJlL-315" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="1TwS_bmIdJYbr3fNDJlL-284">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3130" y="-500" as="sourcePoint" />
+            <mxPoint x="3256" y="-421" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="3256" y="-510" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1TwS_bmIdJYbr3fNDJlL-316" value="&lt;div&gt;Display UI:&lt;/div&gt;&lt;div&gt;Smelter info box&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="3195" y="-420" width="120" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="1TwS_bmIdJYbr3fNDJlL-317" value="Øksmannen" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="3455" y="-430" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1TwS_bmIdJYbr3fNDJlL-318" value="For å få en ny øks må du levere inn den gamle. Vi kaster ingenting som kan brukes igjen her i byen!" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3390" y="-410" width="250" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="1TwS_bmIdJYbr3fNDJlL-323" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="1TwS_bmIdJYbr3fNDJlL-316" target="1TwS_bmIdJYbr3fNDJlL-318">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3320" y="-370" as="sourcePoint" />
+            <mxPoint x="3370" y="-420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1TwS_bmIdJYbr3fNDJlL-324" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="1TwS_bmIdJYbr3fNDJlL-318" target="1TwS_bmIdJYbr3fNDJlL-272">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3320" y="-300" as="sourcePoint" />
+            <mxPoint x="3370" y="-350" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="3140" y="-360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1TwS_bmIdJYbr3fNDJlL-326" value="&lt;div&gt;Quest: En ny øks&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="2470" y="-1240" width="2970" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1TwS_bmIdJYbr3fNDJlL-327" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4260" y="-600" width="260" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="1TwS_bmIdJYbr3fNDJlL-328" value="Sted" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="4330" y="-850" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1TwS_bmIdJYbr3fNDJlL-329" value="Person" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="4330" y="-830" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1TwS_bmIdJYbr3fNDJlL-330" value="&lt;i&gt;Text&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4260" y="-810" width="260" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="1TwS_bmIdJYbr3fNDJlL-331" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" source="1TwS_bmIdJYbr3fNDJlL-330" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="4370" y="-580" as="sourcePoint" />
+            <mxPoint x="4390" y="-600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1TwS_bmIdJYbr3fNDJlL-332" value="&lt;i&gt;Text&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4270" y="-590" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1TwS_bmIdJYbr3fNDJlL-333" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.999;exitY=0.221;exitDx=0;exitDy=0;entryX=-0.004;entryY=0.406;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" edge="1" source="1TwS_bmIdJYbr3fNDJlL-332" target="1TwS_bmIdJYbr3fNDJlL-335" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="4510.75" y="-580" as="sourcePoint" />
+            <mxPoint x="4560" y="-587.39" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1TwS_bmIdJYbr3fNDJlL-334" value="" style="endArrow=classic;html=1;rounded=0;exitX=-0.001;exitY=0.698;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.002;entryY=0.139;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" source="1TwS_bmIdJYbr3fNDJlL-335" target="1TwS_bmIdJYbr3fNDJlL-327" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="4550" y="-500" as="sourcePoint" />
+            <mxPoint x="4522" y="-514" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1TwS_bmIdJYbr3fNDJlL-335" value="&lt;i&gt;Text&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4560" y="-680" width="250" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="1TwS_bmIdJYbr3fNDJlL-336" value="Person" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="4625" y="-700" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1TwS_bmIdJYbr3fNDJlL-339" value="&lt;i&gt;Text&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4270" y="-540" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1TwS_bmIdJYbr3fNDJlL-340" value="&lt;i&gt;(Avslutt samtale)&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4270" y="-490" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1TwS_bmIdJYbr3fNDJlL-344" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="1TwS_bmIdJYbr3fNDJlL-335">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="4630" y="-540" as="sourcePoint" />
+            <mxPoint x="4858" y="-645" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1TwS_bmIdJYbr3fNDJlL-345" value="&lt;div&gt;Remove from inventory: &lt;br&gt;3 iron bars&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="4860" y="-685" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1TwS_bmIdJYbr3fNDJlL-346" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="4980" y="-640" as="sourcePoint" />
+            <mxPoint x="5033" y="-640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1TwS_bmIdJYbr3fNDJlL-347" value="Add to inventory: &lt;br&gt;En ny øks" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="5040" y="-685" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1TwS_bmIdJYbr3fNDJlL-348" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="5160" y="-640" as="sourcePoint" />
+            <mxPoint x="5206" y="-640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1TwS_bmIdJYbr3fNDJlL-349" value="&lt;div&gt;Update quest:&lt;/div&gt;&lt;div&gt;Complete&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="5204" y="-679" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
