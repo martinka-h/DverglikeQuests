@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0" version="27.1.5">
   <diagram name="Page-1" id="g6TqFf-J95rABQfKAAWV">
-    <mxGraphModel dx="4775" dy="4960" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2420" dy="3304" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -471,10 +471,10 @@
           <mxGeometry x="30" y="15" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="1TwS_bmIdJYbr3fNDJlL-136" value="Quest: Get some potions&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2240" y="1030" width="180" height="170" as="geometry" />
+          <mxGeometry x="2490" y="1020" width="180" height="170" as="geometry" />
         </mxCell>
         <mxCell id="1TwS_bmIdJYbr3fNDJlL-137" value="Stage 1" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2250" y="1080" width="160" height="110" as="geometry">
+          <mxGeometry x="2500" y="1070" width="160" height="110" as="geometry">
             <mxRectangle x="510" width="40" height="70" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
