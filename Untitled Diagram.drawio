@@ -1,9 +1,12 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0" version="27.1.5">
   <diagram name="Page-1" id="g6TqFf-J95rABQfKAAWV">
-    <mxGraphModel dx="2420" dy="3304" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3990" dy="4076" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="1TwS_bmIdJYbr3fNDJlL-384" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="2490" y="1095" width="1390" height="230" as="geometry" />
+        </mxCell>
         <mxCell id="1TwS_bmIdJYbr3fNDJlL-325" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="2470" y="-1180" width="2970" height="880" as="geometry" />
         </mxCell>
@@ -77,7 +80,7 @@
           <mxGeometry x="80" y="240" width="260" height="160" as="geometry" />
         </mxCell>
         <mxCell id="FYnC16tskqoebnY5So_8-17" value="&lt;div style=&quot;line-height: 130%;&quot;&gt;Quest: A healthy breakfast&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="630" y="-105" width="180" height="180" as="geometry" />
+          <mxGeometry x="630" y="-100" width="180" height="180" as="geometry" />
         </mxCell>
         <mxCell id="1TwS_bmIdJYbr3fNDJlL-4" value="&lt;i&gt;Selvfølgelig. (Avslutt samtale)&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="350" width="240" height="40" as="geometry" />
@@ -438,7 +441,7 @@
             <mxPoint x="1650" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1TwS_bmIdJYbr3fNDJlL-125" value="Første quest: A healthy breakfast" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="1TwS_bmIdJYbr3fNDJlL-125" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;Første quest: A healthy breakfast&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-40" y="-170" width="2470" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1TwS_bmIdJYbr3fNDJlL-127" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1TwS_bmIdJYbr3fNDJlL-121" target="1TwS_bmIdJYbr3fNDJlL-128">
@@ -471,10 +474,10 @@
           <mxGeometry x="30" y="15" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="1TwS_bmIdJYbr3fNDJlL-136" value="Quest: Get some potions&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2490" y="1020" width="180" height="170" as="geometry" />
+          <mxGeometry x="2520" y="1115" width="180" height="170" as="geometry" />
         </mxCell>
         <mxCell id="1TwS_bmIdJYbr3fNDJlL-137" value="Stage 1" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2500" y="1070" width="160" height="110" as="geometry">
+          <mxGeometry x="2530" y="1165" width="160" height="110" as="geometry">
             <mxRectangle x="510" width="40" height="70" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -833,7 +836,7 @@
         <mxCell id="1TwS_bmIdJYbr3fNDJlL-267" value="Add to inventory:&lt;br&gt;&lt;div&gt;Bue&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="4280" y="130" width="120" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="1TwS_bmIdJYbr3fNDJlL-268" value="&lt;div&gt;Quest: Første bue (crafting)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="1TwS_bmIdJYbr3fNDJlL-268" value="&lt;div&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;Quest: Første bue (crafting)&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="2490" y="-190" width="2590" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1TwS_bmIdJYbr3fNDJlL-269" value="Quest: A new axe &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -1003,7 +1006,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="1TwS_bmIdJYbr3fNDJlL-326" value="&lt;div&gt;Quest: En ny øks&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="1TwS_bmIdJYbr3fNDJlL-326" value="&lt;div&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;Quest: En ny øks&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="2470" y="-1240" width="2970" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1TwS_bmIdJYbr3fNDJlL-327" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -1077,6 +1080,92 @@
         </mxCell>
         <mxCell id="1TwS_bmIdJYbr3fNDJlL-349" value="&lt;div&gt;Update quest:&lt;/div&gt;&lt;div&gt;Complete&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="5204" y="-679" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1TwS_bmIdJYbr3fNDJlL-350" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.092;entryY=1.001;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="1TwS_bmIdJYbr3fNDJlL-325">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2740" y="-190" as="sourcePoint" />
+            <mxPoint x="2790" y="-240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1TwS_bmIdJYbr3fNDJlL-358" value="Quest: Get some potions&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2900" y="1115" width="180" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="1TwS_bmIdJYbr3fNDJlL-359" value="&lt;div&gt;Stage 2&lt;/div&gt;" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2910" y="1165" width="160" height="110" as="geometry">
+            <mxRectangle x="510" width="40" height="70" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1TwS_bmIdJYbr3fNDJlL-360" value="0/1 Plante 1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1TwS_bmIdJYbr3fNDJlL-359">
+          <mxGeometry x="30" y="50" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1TwS_bmIdJYbr3fNDJlL-361" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Plukk nødvendige urter for å lage en health potion&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1TwS_bmIdJYbr3fNDJlL-359">
+          <mxGeometry x="30" y="10" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1TwS_bmIdJYbr3fNDJlL-362" value="0/1 Plante 2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2940" y="1245" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1TwS_bmIdJYbr3fNDJlL-363" value="Quest: Get some potions&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3260" y="1115" width="180" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="1TwS_bmIdJYbr3fNDJlL-364" value="Stage 3" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3270" y="1165" width="160" height="110" as="geometry">
+            <mxRectangle x="510" width="40" height="70" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1TwS_bmIdJYbr3fNDJlL-368" value="0/1 Plante 1 powder" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1TwS_bmIdJYbr3fNDJlL-364">
+          <mxGeometry x="30" y="45" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1TwS_bmIdJYbr3fNDJlL-369" value="0/1 Plante 2 powder" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1TwS_bmIdJYbr3fNDJlL-364">
+          <mxGeometry x="30" y="80" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1TwS_bmIdJYbr3fNDJlL-366" value="Use the mortar to grind &lt;br&gt;the plants into powder." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="3290" y="1165" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1TwS_bmIdJYbr3fNDJlL-370" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2710" y="1219.55" as="sourcePoint" />
+            <mxPoint x="2890" y="1219.55" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1TwS_bmIdJYbr3fNDJlL-371" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=-0.024;entryY=0.565;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3090" y="1219.48" as="sourcePoint" />
+            <mxPoint x="3255.6799999999994" y="1220.5299999999997" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1TwS_bmIdJYbr3fNDJlL-374" value="Stage 3" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3651" y="1165" width="160" height="110" as="geometry">
+            <mxRectangle x="510" width="40" height="70" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1TwS_bmIdJYbr3fNDJlL-375" value="0/1 Plante 1 powder" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1TwS_bmIdJYbr3fNDJlL-374">
+          <mxGeometry x="30" y="45" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1TwS_bmIdJYbr3fNDJlL-376" value="0/1 Plante 2 powder" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1TwS_bmIdJYbr3fNDJlL-374">
+          <mxGeometry x="30" y="80" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1TwS_bmIdJYbr3fNDJlL-377" value="Use the mortar to grind &lt;br&gt;the plants into powder." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="3671" y="1165" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1TwS_bmIdJYbr3fNDJlL-378" value="Quest: Get some potions&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3641" y="1115" width="180" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="1TwS_bmIdJYbr3fNDJlL-379" value="Stage 4" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="1">
+          <mxGeometry x="3651" y="1165" width="160" height="110" as="geometry">
+            <mxRectangle x="510" width="40" height="70" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1TwS_bmIdJYbr3fNDJlL-383" value="Craft a health potion" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1TwS_bmIdJYbr3fNDJlL-379">
+          <mxGeometry x="29" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1TwS_bmIdJYbr3fNDJlL-382" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=-0.024;entryY=0.565;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3454.32" y="1219.44" as="sourcePoint" />
+            <mxPoint x="3619.9999999999995" y="1220.4899999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1TwS_bmIdJYbr3fNDJlL-385" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;Quest: Get some potions&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="2490" y="1030" width="1390" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
