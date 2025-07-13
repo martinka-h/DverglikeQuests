@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0" version="28.0.3">
   <diagram name="Page-1" id="DHuM1axFLLnh3QernCQQ">
-    <mxGraphModel dx="3227" dy="2412" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3044" dy="2311" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -329,8 +329,8 @@
         <mxCell id="-OQqNUn7nrMlVJyKAk-S-27" value="But you wouldn&#39;t want your first hunt cut short by a festering bite or smashed bones." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2960" y="820" width="210" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="-OQqNUn7nrMlVJyKAk-S-29" value="Event:&lt;div&gt;Start quest:&amp;nbsp;A Proper Bow &amp;amp;&amp;amp;&lt;br&gt;Potions for the Trail&lt;br&gt;&lt;br&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="3240" y="820" width="240" height="80" as="geometry" />
+        <mxCell id="-OQqNUn7nrMlVJyKAk-S-29" value="Event:&lt;div&gt;If the player doesn&#39;t have tag AProperBow.Started, &lt;br&gt;Give quest: A Proper Bow&lt;br&gt;&lt;br&gt;If the player doesn&#39;t have tag PotionsForThe Trail.Started,&lt;br&gt;Give quest: Potions for the Trail&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="3240" y="805" width="360" height="110" as="geometry" />
         </mxCell>
         <mxCell id="-OQqNUn7nrMlVJyKAk-S-30" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" target="-OQqNUn7nrMlVJyKAk-S-29" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
