@@ -1,11 +1,11 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0" version="28.0.4">
   <diagram name="Page-1" id="BGpyeeIe_iE8LkdZI5Qv">
-    <mxGraphModel dx="2887" dy="2403" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2208" dy="1969" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="VnkiPzDCxWVtJs6Gqvt7-156" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="3770" y="250" width="1820" height="1810" as="geometry" />
+          <mxGeometry x="3770" y="250" width="2160" height="1810" as="geometry" />
         </mxCell>
         <mxCell id="VnkiPzDCxWVtJs6Gqvt7-73" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-240" y="250" width="1930" height="1810" as="geometry" />
@@ -20,7 +20,7 @@
           <mxGeometry x="80" y="420" width="390" height="1330" as="geometry" />
         </mxCell>
         <mxCell id="VnkiPzDCxWVtJs6Gqvt7-191" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3790" y="305" width="1730" height="145" as="geometry" />
+          <mxGeometry x="3790" y="305" width="2080" height="145" as="geometry" />
         </mxCell>
         <mxCell id="VnkiPzDCxWVtJs6Gqvt7-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VnkiPzDCxWVtJs6Gqvt7-2" target="VnkiPzDCxWVtJs6Gqvt7-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -287,22 +287,22 @@
           <mxGeometry x="-240" y="200" width="1930" height="50" as="geometry" />
         </mxCell>
         <mxCell id="VnkiPzDCxWVtJs6Gqvt7-87" value="Stage 2:" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-200" y="-340" width="361.67" height="60" as="geometry" />
+          <mxGeometry x="1020" y="-200" width="361.67" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VnkiPzDCxWVtJs6Gqvt7-88" value="Take Stump&#39;s ruined axe to the smithy and ask for it to be fixed." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="VnkiPzDCxWVtJs6Gqvt7-87">
           <mxGeometry y="30" width="361.67" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VnkiPzDCxWVtJs6Gqvt7-91" value="Stage 1:" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-200" y="-660" width="361.67" height="60" as="geometry" />
+          <mxGeometry x="590" y="-200" width="361.67" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VnkiPzDCxWVtJs6Gqvt7-92" value="Talk to Stump at his workshop." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="VnkiPzDCxWVtJs6Gqvt7-91">
           <mxGeometry y="30" width="361.67" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VnkiPzDCxWVtJs6Gqvt7-93" value="" style="shape=card;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-22.330000000000013" y="-580" width="184" height="230" as="geometry" />
+          <mxGeometry x="767.67" y="-120" width="184" height="230" as="geometry" />
         </mxCell>
         <mxCell id="VnkiPzDCxWVtJs6Gqvt7-94" value="" style="shape=card;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-22.330000000000013" y="-260" width="184" height="230" as="geometry" />
+          <mxGeometry x="1197.67" y="-120" width="184" height="230" as="geometry" />
         </mxCell>
         <mxCell id="VnkiPzDCxWVtJs6Gqvt7-96" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;Torstein&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="1750" y="140" width="1930" height="60" as="geometry" />
@@ -404,10 +404,10 @@
           <mxGeometry x="3110" y="590" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="VnkiPzDCxWVtJs6Gqvt7-135" value="" style="shape=card;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="397.66999999999996" y="-580" width="184" height="230" as="geometry" />
+          <mxGeometry x="1627.67" y="-120" width="184" height="230" as="geometry" />
         </mxCell>
         <mxCell id="VnkiPzDCxWVtJs6Gqvt7-137" value="Stage 3:" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="-660" width="361.67" height="60" as="geometry" />
+          <mxGeometry x="1450" y="-200" width="361.67" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VnkiPzDCxWVtJs6Gqvt7-138" value="Collect 0/6 iron ore." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="VnkiPzDCxWVtJs6Gqvt7-137">
           <mxGeometry y="30" width="361.67" height="30" as="geometry" />
@@ -425,24 +425,24 @@
           <mxGeometry x="2080" y="955" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VnkiPzDCxWVtJs6Gqvt7-154" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;Torstein&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="3770" y="140" width="1820" height="60" as="geometry" />
+          <mxGeometry x="3770" y="140" width="2160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VnkiPzDCxWVtJs6Gqvt7-155" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;A Proper Bow Stage 4&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3770" y="200" width="1820" height="50" as="geometry" />
+        <mxCell id="VnkiPzDCxWVtJs6Gqvt7-155" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;A Proper Bow Stage 4 - 5&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3770" y="200" width="2160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="VnkiPzDCxWVtJs6Gqvt7-157" value="Back already? Empty your sack in the smelter. Once the iron melts, collect it for me and I&#39;ll fix the axe." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="5240" y="330" width="240" height="90" as="geometry" />
         </mxCell>
         <mxCell id="VnkiPzDCxWVtJs6Gqvt7-171" value="Stage 4:" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="-340" width="361.67" height="60" as="geometry" />
+          <mxGeometry x="1860" y="-200" width="361.67" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VnkiPzDCxWVtJs6Gqvt7-172" value="Return to Torstein with the ore." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="VnkiPzDCxWVtJs6Gqvt7-171">
           <mxGeometry y="30" width="361.67" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VnkiPzDCxWVtJs6Gqvt7-173" value="" style="shape=card;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="407.66999999999996" y="-260" width="184" height="230" as="geometry" />
+          <mxGeometry x="2037.67" y="-120" width="184" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="VnkiPzDCxWVtJs6Gqvt7-174" value="Condition:&lt;br&gt;A Proper Bow Stage 3 completed" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="VnkiPzDCxWVtJs6Gqvt7-174" value="Condition:&lt;br&gt;A Proper Bow Stage 3 completed &amp;amp;&amp;amp; Stage 5 not completed" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="4950" y="335" width="210" height="80" as="geometry" />
         </mxCell>
         <mxCell id="VnkiPzDCxWVtJs6Gqvt7-175" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="VnkiPzDCxWVtJs6Gqvt7-157" target="VnkiPzDCxWVtJs6Gqvt7-174">
@@ -506,7 +506,7 @@
             <mxPoint x="2430" y="840" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VnkiPzDCxWVtJs6Gqvt7-188" value="Condition:&lt;br&gt;A Proper Bow Stage 3 completed &amp;amp;&amp;amp; Player has iron bars" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="VnkiPzDCxWVtJs6Gqvt7-188" value="Condition:&lt;br&gt;A Proper Bow Stage 3 completed &amp;amp;&amp;amp; Player has iron bars OR&lt;br&gt;Stage 5 completed" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="3820" y="335" width="210" height="80" as="geometry" />
         </mxCell>
         <mxCell id="VnkiPzDCxWVtJs6Gqvt7-189" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" source="VnkiPzDCxWVtJs6Gqvt7-190" target="VnkiPzDCxWVtJs6Gqvt7-188" parent="1">
@@ -562,6 +562,186 @@
         </mxCell>
         <mxCell id="VnkiPzDCxWVtJs6Gqvt7-201" value="Event:&lt;br&gt;Add to inventory: Axe&amp;nbsp; " style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="4390" y="640" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VnkiPzDCxWVtJs6Gqvt7-202" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="VnkiPzDCxWVtJs6Gqvt7-157" target="VnkiPzDCxWVtJs6Gqvt7-203">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="5710" y="370" as="sourcePoint" />
+            <mxPoint x="5760" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VnkiPzDCxWVtJs6Gqvt7-203" value="Event:&lt;br&gt;Update A proper Bow to Stage 5" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="5600" y="335" width="250" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VnkiPzDCxWVtJs6Gqvt7-204" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="VnkiPzDCxWVtJs6Gqvt7-199" target="VnkiPzDCxWVtJs6Gqvt7-205">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="4390" y="790" as="sourcePoint" />
+            <mxPoint x="4440" y="740" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VnkiPzDCxWVtJs6Gqvt7-205" value="Event: &lt;br&gt;Update A Proper Bow to stage 7" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="4390" y="732.5" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VnkiPzDCxWVtJs6Gqvt7-206" value="Stage 5:" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2290" y="-200" width="361.67" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VnkiPzDCxWVtJs6Gqvt7-207" value="Melt iron ore into bars 0/3" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="VnkiPzDCxWVtJs6Gqvt7-206">
+          <mxGeometry y="30" width="361.67" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VnkiPzDCxWVtJs6Gqvt7-208" value="" style="shape=card;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2467.67" y="-120" width="184" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="VnkiPzDCxWVtJs6Gqvt7-209" value="Stage 6:" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2710" y="-200" width="361.67" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VnkiPzDCxWVtJs6Gqvt7-212" value="Take the iron bars to Torstein so he can fix the axe." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="VnkiPzDCxWVtJs6Gqvt7-209">
+          <mxGeometry y="30" width="361.67" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VnkiPzDCxWVtJs6Gqvt7-211" value="" style="shape=card;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2887.67" y="-120" width="184" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="VnkiPzDCxWVtJs6Gqvt7-214" value="Gather 0/3 wood&lt;br&gt;Gather 0/3 fiber" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3130" y="-170" width="361.67" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VnkiPzDCxWVtJs6Gqvt7-215" value="" style="shape=card;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3757.67" y="-130" width="184" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="VnkiPzDCxWVtJs6Gqvt7-216" value="Stage 8:" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3580" y="-200" width="361.67" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VnkiPzDCxWVtJs6Gqvt7-218" value="&lt;div&gt;Stage 7:&lt;/div&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3130" y="-200" width="361.67" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VnkiPzDCxWVtJs6Gqvt7-219" value="" style="shape=card;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3307.67" y="-130" width="184" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="VnkiPzDCxWVtJs6Gqvt7-220" value="Return to Stump with the materials." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="3635" y="-172" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VnkiPzDCxWVtJs6Gqvt7-221" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;Stump&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="5990" y="140" width="1050" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VnkiPzDCxWVtJs6Gqvt7-222" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;A Proper Bow Stage 8&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5990" y="200" width="1050" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="VnkiPzDCxWVtJs6Gqvt7-223" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="5990" y="250" width="1050" height="1810" as="geometry" />
+        </mxCell>
+        <mxCell id="VnkiPzDCxWVtJs6Gqvt7-227" value="Condition:&lt;br&gt;A Proper Bow Stage 7 completed &amp;amp; Stage 9 not completed" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="6090" y="330" width="230" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VnkiPzDCxWVtJs6Gqvt7-228" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="VnkiPzDCxWVtJs6Gqvt7-229" target="VnkiPzDCxWVtJs6Gqvt7-227">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="6380" y="410" as="sourcePoint" />
+            <mxPoint x="6430" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VnkiPzDCxWVtJs6Gqvt7-229" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="6390" y="310" width="310" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="VnkiPzDCxWVtJs6Gqvt7-230" value="Torstein sends his regards. Said the axe he fixed is mine to keep; he’ll forge you a proper felling blade tomorrow." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="6425" y="340" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VnkiPzDCxWVtJs6Gqvt7-231" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="VnkiPzDCxWVtJs6Gqvt7-229" target="VnkiPzDCxWVtJs6Gqvt7-232">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="6630" y="520" as="sourcePoint" />
+            <mxPoint x="6680" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VnkiPzDCxWVtJs6Gqvt7-232" value="Torstein’s got a generous streak wide as his anvil. I’ll put that old axe to rest gladly and I’ll raise the first pint when his new steel arrives." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="6410" y="470" width="270" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VnkiPzDCxWVtJs6Gqvt7-233" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="VnkiPzDCxWVtJs6Gqvt7-232" target="VnkiPzDCxWVtJs6Gqvt7-234">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="6580" y="610" as="sourcePoint" />
+            <mxPoint x="6630" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VnkiPzDCxWVtJs6Gqvt7-234" value="Now that you have the materials, I’ll guide the knife, you’ll do the carving. You’ll shape it with your own hands, breath, and sweat. A bow’s more than wood and string - it’s an extension of the hunter." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="6410" y="580" width="270" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="VnkiPzDCxWVtJs6Gqvt7-236" value="Take your place at the workbench. I&#39;ll be at your shoulder." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="6410" y="690" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VnkiPzDCxWVtJs6Gqvt7-237" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VnkiPzDCxWVtJs6Gqvt7-234" target="VnkiPzDCxWVtJs6Gqvt7-236">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="6700" y="720" as="sourcePoint" />
+            <mxPoint x="6750" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VnkiPzDCxWVtJs6Gqvt7-238" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="VnkiPzDCxWVtJs6Gqvt7-236" target="VnkiPzDCxWVtJs6Gqvt7-239">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="6770" y="660" as="sourcePoint" />
+            <mxPoint x="6820" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VnkiPzDCxWVtJs6Gqvt7-239" value="Event:&lt;br&gt;Update A Proper Bow to stage 9" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="6760" y="680" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VnkiPzDCxWVtJs6Gqvt7-240" value="Stage 9:" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4030" y="-200" width="361.67" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VnkiPzDCxWVtJs6Gqvt7-241" value="Craft the bow at the workbench." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="4095" y="-172" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VnkiPzDCxWVtJs6Gqvt7-242" value="" style="shape=card;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4207.67" y="-130" width="184" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="VnkiPzDCxWVtJs6Gqvt7-243" value="Stage 10:" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4470" y="-200" width="361.67" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VnkiPzDCxWVtJs6Gqvt7-244" value="Return to Stump with your new bow." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="4520" y="-172" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VnkiPzDCxWVtJs6Gqvt7-245" value="" style="shape=card;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4647.67" y="-130" width="184" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="VnkiPzDCxWVtJs6Gqvt7-250" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="7120" y="250" width="1050" height="1810" as="geometry" />
+        </mxCell>
+        <mxCell id="VnkiPzDCxWVtJs6Gqvt7-251" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;A Proper Bow Stage 10&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="7120" y="200" width="1050" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="VnkiPzDCxWVtJs6Gqvt7-252" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;Stump&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="7120" y="140" width="1050" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VnkiPzDCxWVtJs6Gqvt7-253" value="Condition: &lt;br&gt;A Proper Bow stage 9 completed &amp;amp;&amp;amp; Quest not completed" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="7210" y="315" width="230" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VnkiPzDCxWVtJs6Gqvt7-254" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="VnkiPzDCxWVtJs6Gqvt7-253" target="VnkiPzDCxWVtJs6Gqvt7-255">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="7630" y="420" as="sourcePoint" />
+            <mxPoint x="7680" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VnkiPzDCxWVtJs6Gqvt7-255" value="Tis’ a proper first bow. Fine for rabbits and the timid deer, but don&#39;t dream of bears just yet!" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="7560" y="320" width="260" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="VnkiPzDCxWVtJs6Gqvt7-256" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="VnkiPzDCxWVtJs6Gqvt7-255" target="VnkiPzDCxWVtJs6Gqvt7-257">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="7780" y="470" as="sourcePoint" />
+            <mxPoint x="7830" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VnkiPzDCxWVtJs6Gqvt7-257" value="Once your grip’s steady and your eye’s sharp, I&#39;ll pick a piece of my best ironwood and we&#39;ll craft an even better bow. For now, this one will serve you well. " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="7560" y="415" width="260" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="VnkiPzDCxWVtJs6Gqvt7-258" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VnkiPzDCxWVtJs6Gqvt7-257" target="VnkiPzDCxWVtJs6Gqvt7-259">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="7810" y="460" as="sourcePoint" />
+            <mxPoint x="7860" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VnkiPzDCxWVtJs6Gqvt7-259" value="Twenty arrows. Nothing fancy, but they’ll fly straight enough. Take them" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="7560" y="520" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VnkiPzDCxWVtJs6Gqvt7-260" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="VnkiPzDCxWVtJs6Gqvt7-259" target="VnkiPzDCxWVtJs6Gqvt7-261">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="7880" y="440" as="sourcePoint" />
+            <mxPoint x="7930" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VnkiPzDCxWVtJs6Gqvt7-261" value="Event:&lt;br&gt;Complete quest &amp;amp;&amp;amp; Give arrows" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="7900" y="510" width="240" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
