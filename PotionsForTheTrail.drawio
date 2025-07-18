@@ -1,16 +1,22 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0" version="28.0.6">
   <diagram name="Page-1" id="4zDZfXnHKPZ7NhKod1eE">
-    <mxGraphModel dx="1042" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2587" dy="2052" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ac3OttQ5r9UJf8FcVnDB-60" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-200" y="-400" width="3510" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="ac3OttQ5r9UJf8FcVnDB-36" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-167.5" y="230" width="1187.5" height="840" as="geometry" />
+        </mxCell>
         <mxCell id="ac3OttQ5r9UJf8FcVnDB-20" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="427.5" y="530" width="265" height="120" as="geometry" />
         </mxCell>
         <mxCell id="ac3OttQ5r9UJf8FcVnDB-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="135" y="250" width="240" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="ac3OttQ5r9UJf8FcVnDB-1" value="[The alchemist is hunched over a thick, dust-covered tome, muttering to herself about sporelings and myconids.]" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ac3OttQ5r9UJf8FcVnDB-1" value="[The alchemist is hunched over a thick, dust-covered tome, muttering to herself about sporelings, myconids and... explosives?]" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="135" y="130" width="240" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ac3OttQ5r9UJf8FcVnDB-2" value="1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -21,9 +27,6 @@
             <mxPoint x="480" y="240" as="sourcePoint" />
             <mxPoint x="260" y="250" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="ac3OttQ5r9UJf8FcVnDB-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ac3OttQ5r9UJf8FcVnDB-5" target="ac3OttQ5r9UJf8FcVnDB-1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ac3OttQ5r9UJf8FcVnDB-5" value="First hunt today. Thought I’d need a potion or two." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="147.5" y="290" width="215" height="60" as="geometry" />
@@ -102,6 +105,201 @@
             <mxPoint x="560" y="930" as="sourcePoint" />
             <mxPoint x="280" y="890" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="ac3OttQ5r9UJf8FcVnDB-32" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ac3OttQ5r9UJf8FcVnDB-29" target="ac3OttQ5r9UJf8FcVnDB-33">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="740" y="910" as="sourcePoint" />
+            <mxPoint x="760" y="1000" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ac3OttQ5r9UJf8FcVnDB-33" value="Event: &lt;br&gt;Give tag PotionsForTheTrail.Completed.Stage1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="960" width="270" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ac3OttQ5r9UJf8FcVnDB-34" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ac3OttQ5r9UJf8FcVnDB-5" target="ac3OttQ5r9UJf8FcVnDB-35">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="50" y="300" as="sourcePoint" />
+            <mxPoint x="100" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ac3OttQ5r9UJf8FcVnDB-35" value="&lt;div&gt;Condition: &lt;br&gt;No tags match:&lt;/div&gt;&lt;div&gt;PotionsForTheTrail.Completed.Stage1&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="-150" y="280" width="230" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ac3OttQ5r9UJf8FcVnDB-37" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;PotionsForTheTrail_Stage1_DialogueCluster&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="200" width="500" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ac3OttQ5r9UJf8FcVnDB-45" value="&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;Journal update:&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;The alchemist didn’t want to just hand me potions. She prefers to teach me how to make them myself.&lt;br data-end=&quot;251&quot; data-start=&quot;248&quot;&gt;&lt;br&gt;I’ll need to gather honey from the bees, who have their hives in the trees.&lt;br data-end=&quot;329&quot; data-start=&quot;326&quot;&gt;&lt;br&gt;I also need Sundrop petals, which should grow on the sunny knoll behind the mayor’s house.&lt;br data-end=&quot;422&quot; data-start=&quot;419&quot;&gt;&lt;br&gt;If I’m lucky, maybe both the bees and the Sundrop can be found at the knoll.&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=left;" vertex="1" parent="1">
+          <mxGeometry x="400" y="-340" width="340" height="365" as="geometry" />
+        </mxCell>
+        <mxCell id="ac3OttQ5r9UJf8FcVnDB-46" value="" style="shape=stencil(fZbdcgIhDIWfZm8zQAg/17Z9j85U606tdqz9e/tmZ0c0uJ47xP0I5JwEBl59bp8/1kNwn6fj4W39M76ctgM/DCGM++36OJ50NPDjwKvN4bh+PR6+9i/z74/n6ctp9H74nlb4nbmSKZeJCu5vngmZ6jzzNAO7cX8FVKEsBuBKrgKg9oAE8gkCbLeUhEoEQKSUDZDLeWYRKIl8MEDRmHwfyBrBG6Amyu4+kDxxMoB3jhwgYu7TVAsVkFcWCs4CTBEoF4RctKeOxHIf8IXYpikHikAIf+MNUW94AGSSaoAoFIE3AlOyeWU+p2E5S9yfQZcQILVuQOwZdJNoS9Ls3wA5u2XZTIHECqeJ9kDpSaauRiNVcAY1QhdBzeLBli5WazpkSsBLV25uRaqWRyFawTQzRRIQYirJzq5atkBqLfouwqUxLBepthWb10vrWZY6UOAeyKCCtDV625mm9gmUC4Wc3VLJMMIE1BsA2FW9JraVlQB7n3c9oMKhCLEvIM1zBPZ25/umNQ1tVEC2G+fFCC8g398O2hNQuQlVu752DBfA+q0ptnqO5JFmeuIuo9DY7KjY71UxdJV4EntifPWorW++R/dC4t7V3DlIB5cHx2bc7eb3yvX//QNFp+bHDT/+Aw==);lineShape=1;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1099.9952767723983" y="1030.7944852453168" width="5.497105614253194" height="5.48851319571494" as="geometry" />
+        </mxCell>
+        <mxCell id="ac3OttQ5r9UJf8FcVnDB-47" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="230" width="1280.19" height="840" as="geometry" />
+        </mxCell>
+        <mxCell id="ac3OttQ5r9UJf8FcVnDB-48" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;PotionsForTheTrail_Stage2_DialogueCluster&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1900.19" y="200" width="500" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ac3OttQ5r9UJf8FcVnDB-49" value="[The alchemist is hunched over a thick, dust-covered tome, muttering to herself about sporelings, myconids and... explosives?]" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1440.49" y="120" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ac3OttQ5r9UJf8FcVnDB-50" value="1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1475.49" y="100" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ac3OttQ5r9UJf8FcVnDB-51" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1440.49" y="250" width="240" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="ac3OttQ5r9UJf8FcVnDB-52" value="Alchemist_Player_Stage2_9" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1475.49" y="270" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ac3OttQ5r9UJf8FcVnDB-53" value="I&#39;m ready to start mixing the potion!" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1452.99" y="290" width="215" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ac3OttQ5r9UJf8FcVnDB-54" value="&lt;div&gt;Condition: &lt;br&gt;Any tags match&lt;/div&gt;&lt;div&gt;PotionsForTheTrail.Completed.Stage2&lt;/div&gt;&amp;nbsp;&amp;amp;&amp;amp; &lt;br&gt;No tags match&lt;br&gt;PotionsForTheTrail.Completed.Quest" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="270" width="265.68" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ac3OttQ5r9UJf8FcVnDB-55" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ac3OttQ5r9UJf8FcVnDB-49" target="ac3OttQ5r9UJf8FcVnDB-51">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1855.49" y="247" as="sourcePoint" />
+            <mxPoint x="1905.49" y="197" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ac3OttQ5r9UJf8FcVnDB-57" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;Stage 1:&lt;br&gt;Acquire healing draughts from the alchemist.&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-130" y="-287.5" width="290" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="ac3OttQ5r9UJf8FcVnDB-59" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ac3OttQ5r9UJf8FcVnDB-57" target="ac3OttQ5r9UJf8FcVnDB-45">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260" y="-127.5" as="sourcePoint" />
+            <mxPoint x="640" y="-157.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ac3OttQ5r9UJf8FcVnDB-61" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;Stage 2:&lt;br&gt;Gather:&lt;br&gt;7 Sundrop petals&lt;br&gt;Honey&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="940" y="-280" width="290" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="ac3OttQ5r9UJf8FcVnDB-62" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0;exitY=0;exitDx=340;exitDy=197.5;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ac3OttQ5r9UJf8FcVnDB-45" target="ac3OttQ5r9UJf8FcVnDB-61">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="950" y="160" as="sourcePoint" />
+            <mxPoint x="1000" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ac3OttQ5r9UJf8FcVnDB-64" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ac3OttQ5r9UJf8FcVnDB-53" target="ac3OttQ5r9UJf8FcVnDB-54">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1505.68" y="620" as="sourcePoint" />
+            <mxPoint x="1555.68" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ac3OttQ5r9UJf8FcVnDB-65" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ac3OttQ5r9UJf8FcVnDB-53" target="ac3OttQ5r9UJf8FcVnDB-67">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1795.68" y="340" as="sourcePoint" />
+            <mxPoint x="1845.68" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ac3OttQ5r9UJf8FcVnDB-67" value="Not so fast, youngling! Have you gathered the proper ingredients? …Yes… good." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1765.68" y="280" width="230" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ac3OttQ5r9UJf8FcVnDB-68" value="Alchemist_Npc_Stage2_10" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1795.68" y="260" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ac3OttQ5r9UJf8FcVnDB-69" value="I assume you haven’t read &lt;em data-end=&quot;370&quot; data-start=&quot;342&quot;&gt;The Encyclopedia Alchemica&lt;/em&gt;, written by one of the finest alchemists this village has ever known; and my personal friend, not to brag... old Master Bryggvar! A shame, really. It’s a riveting read." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1765.68" y="410" width="230" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ac3OttQ5r9UJf8FcVnDB-70" value="According to the book, &lt;span data-end=&quot;1883&quot; data-start=&quot;1874&quot;&gt;we have to grind&lt;/span&gt; the leaves and spores into a fine powder first. No clumps. &lt;br data-end=&quot;2076&quot; data-start=&quot;2073&quot;&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1765.68" y="560" width="230" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ac3OttQ5r9UJf8FcVnDB-71" value="It tastes so good, you’ll &lt;em data-end=&quot;1004&quot; data-start=&quot;998&quot;&gt;wish&lt;/em&gt; you were injured just for an excuse to drink it! Ha ha! My mouth waters just thinking about it." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1765.68" y="910" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ac3OttQ5r9UJf8FcVnDB-72" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ac3OttQ5r9UJf8FcVnDB-67" target="ac3OttQ5r9UJf8FcVnDB-76">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2045.68" y="430" as="sourcePoint" />
+            <mxPoint x="2095.68" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ac3OttQ5r9UJf8FcVnDB-76" value="Alchemist_Npc_Stage2_11" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1795.68" y="390" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ac3OttQ5r9UJf8FcVnDB-78" value="Alchemist_Npc_Stage2_12" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1795.68" y="540" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ac3OttQ5r9UJf8FcVnDB-82" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ac3OttQ5r9UJf8FcVnDB-70" target="ac3OttQ5r9UJf8FcVnDB-87">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2095.68" y="730" as="sourcePoint" />
+            <mxPoint x="1880.68" y="780" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ac3OttQ5r9UJf8FcVnDB-83" value="Alchemist_Npc_Stage2_15" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1795.68" y="890" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ac3OttQ5r9UJf8FcVnDB-84" value="Then &lt;span data-end=&quot;1992&quot; data-start=&quot;1967&quot;&gt;add the powder slowly&lt;/span&gt; to the heated cauldron while stirring &lt;span data-end=&quot;2042&quot; data-start=&quot;2031&quot;&gt;clockwise&lt;/span&gt;. Yes, the direction matters..." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1765.68" y="690" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ac3OttQ5r9UJf8FcVnDB-85" value="Keep the flame &lt;span data-end=&quot;2099&quot; data-start=&quot;2091&quot;&gt;gentle&lt;/span&gt;. This isn’t a stew. Let the mix bubble, not boil. When it turns golden and gives off a gentle, comforting smell, it&#39;s done!" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1765.68" y="800" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ac3OttQ5r9UJf8FcVnDB-87" value="Alchemist_Npc_Stage2_13" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1795.68" y="670" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ac3OttQ5r9UJf8FcVnDB-88" value="Alchemist_Npc_Stage2_14" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1795.68" y="780" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ac3OttQ5r9UJf8FcVnDB-89" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ac3OttQ5r9UJf8FcVnDB-84" target="ac3OttQ5r9UJf8FcVnDB-88">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2055.68" y="780" as="sourcePoint" />
+            <mxPoint x="2105.68" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ac3OttQ5r9UJf8FcVnDB-90" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ac3OttQ5r9UJf8FcVnDB-85" target="ac3OttQ5r9UJf8FcVnDB-83">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1965.68" y="980" as="sourcePoint" />
+            <mxPoint x="2015.68" y="930" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ac3OttQ5r9UJf8FcVnDB-91" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ac3OttQ5r9UJf8FcVnDB-71" target="ac3OttQ5r9UJf8FcVnDB-92">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1995.68" y="910" as="sourcePoint" />
+            <mxPoint x="2045.68" y="860" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ac3OttQ5r9UJf8FcVnDB-92" value="Event:&lt;br&gt;Give tag: PotionsForTheTrail Stage 3 completed" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="2075.68" y="900" width="250" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ac3OttQ5r9UJf8FcVnDB-93" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ac3OttQ5r9UJf8FcVnDB-69" target="ac3OttQ5r9UJf8FcVnDB-78">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2180" y="480" as="sourcePoint" />
+            <mxPoint x="2230" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ac3OttQ5r9UJf8FcVnDB-94" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ac3OttQ5r9UJf8FcVnDB-61" target="ac3OttQ5r9UJf8FcVnDB-95">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1400" y="-180" as="sourcePoint" />
+            <mxPoint x="1450" y="-230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ac3OttQ5r9UJf8FcVnDB-95" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;Stage 3:Let the alchemist teach you the recipe.&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1600" y="-280" width="290" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="ac3OttQ5r9UJf8FcVnDB-96" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ac3OttQ5r9UJf8FcVnDB-95" target="ac3OttQ5r9UJf8FcVnDB-98">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1830" y="-180" as="sourcePoint" />
+            <mxPoint x="1880" y="-230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ac3OttQ5r9UJf8FcVnDB-97" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Give tag: PotionsForTheTrail.Completed.Stage2&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1275" y="-270" width="285" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ac3OttQ5r9UJf8FcVnDB-98" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;Stage 4: Craft the potion.&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="2250" y="-280" width="290" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="ac3OttQ5r9UJf8FcVnDB-100" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Add recipe to alchemy bench/ cauldron:&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Mending sunbrew&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1930" y="-270" width="285" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ac3OttQ5r9UJf8FcVnDB-101" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ac3OttQ5r9UJf8FcVnDB-98" target="ac3OttQ5r9UJf8FcVnDB-102">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2710" y="-140" as="sourcePoint" />
+            <mxPoint x="2750" y="-145" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ac3OttQ5r9UJf8FcVnDB-102" value="&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;Journal update:&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;p data-end=&quot;421&quot; data-start=&quot;269&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;I learned how to make the &lt;span data-end=&quot;314&quot; data-start=&quot;295&quot;&gt;Mending Sunbrew.&lt;/span&gt; It&#39;s a simple healing potion made from honey and Sundrop petals, rumored to taste so pleasant, I might actually look forward to getting hurt,&lt;/font&gt;&lt;/p&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;br&gt;Maybe I’ll scrape my knee on purpose later… just to check.&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=left;" vertex="1" parent="1">
+          <mxGeometry x="2910" y="-327.5" width="340" height="365" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
