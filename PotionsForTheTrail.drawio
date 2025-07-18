@@ -4,8 +4,11 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ac3OttQ5r9UJf8FcVnDB-20" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="427.5" y="530" width="265" height="120" as="geometry" />
+        </mxCell>
         <mxCell id="ac3OttQ5r9UJf8FcVnDB-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="135" y="250" width="240" height="140" as="geometry" />
+          <mxGeometry x="135" y="250" width="240" height="250" as="geometry" />
         </mxCell>
         <mxCell id="ac3OttQ5r9UJf8FcVnDB-1" value="[The alchemist is hunched over a thick, dust-covered tome, muttering to herself about sporelings and myconids.]" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="135" y="130" width="240" height="80" as="geometry" />
@@ -27,6 +30,78 @@
         </mxCell>
         <mxCell id="ac3OttQ5r9UJf8FcVnDB-8" value="Alchemist_Player_Stage1_2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="270" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ac3OttQ5r9UJf8FcVnDB-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ac3OttQ5r9UJf8FcVnDB-5" target="ac3OttQ5r9UJf8FcVnDB-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="320" as="sourcePoint" />
+            <mxPoint x="430" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ac3OttQ5r9UJf8FcVnDB-13" value="&lt;div&gt;Alchemist_Npc_Stage1_3&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="475" y="260" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ac3OttQ5r9UJf8FcVnDB-14" value="Potions, huh? I can make them for you, sure." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="280" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ac3OttQ5r9UJf8FcVnDB-15" value="&lt;div&gt;Alchemist_Npc_Stage1_4&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="475" y="400" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ac3OttQ5r9UJf8FcVnDB-16" value="But it’s really simple once you know the recipe. Let me show you how to make your own. That way, next time you get hurt out there, you won’t have to come running back." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="420" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ac3OttQ5r9UJf8FcVnDB-17" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ac3OttQ5r9UJf8FcVnDB-14" target="ac3OttQ5r9UJf8FcVnDB-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="730" y="350" as="sourcePoint" />
+            <mxPoint x="780" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ac3OttQ5r9UJf8FcVnDB-18" value="Alchemist_Player_Stage1_5" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="550" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ac3OttQ5r9UJf8FcVnDB-19" value="Okay, what do I do?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="447.5" y="570" width="215" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ac3OttQ5r9UJf8FcVnDB-21" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ac3OttQ5r9UJf8FcVnDB-16" target="ac3OttQ5r9UJf8FcVnDB-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="750" y="460" as="sourcePoint" />
+            <mxPoint x="800" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ac3OttQ5r9UJf8FcVnDB-22" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ac3OttQ5r9UJf8FcVnDB-20" target="ac3OttQ5r9UJf8FcVnDB-24">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="630" y="740" as="sourcePoint" />
+            <mxPoint x="560" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ac3OttQ5r9UJf8FcVnDB-24" value="&lt;div&gt;Alchemist_Npc_Stage1_6&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="475" y="680" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ac3OttQ5r9UJf8FcVnDB-25" value="&lt;p data-end=&quot;1651&quot; data-start=&quot;1470&quot;&gt;Right. First, you need to find the ingredients. We’ll need honey and Sundrop petals. &lt;br&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="700" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ac3OttQ5r9UJf8FcVnDB-26" value="&lt;div&gt;Alchemist_Npc_Stage1_7&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="475" y="810" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ac3OttQ5r9UJf8FcVnDB-27" value="Honey comes from the bees, as you hopefully know. Sundrop grows where there’s plenty of sun. Try looking for it a the knoll." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="830" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ac3OttQ5r9UJf8FcVnDB-28" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ac3OttQ5r9UJf8FcVnDB-25" target="ac3OttQ5r9UJf8FcVnDB-26">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="790" as="sourcePoint" />
+            <mxPoint x="280" y="740" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ac3OttQ5r9UJf8FcVnDB-29" value="Once you have them, come back and we’ll throw ‘em in the pot." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="960" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ac3OttQ5r9UJf8FcVnDB-30" value="&lt;div&gt;Alchemist_Npc_Stage1_8&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="475" y="940" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ac3OttQ5r9UJf8FcVnDB-31" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" target="ac3OttQ5r9UJf8FcVnDB-30" parent="1" source="ac3OttQ5r9UJf8FcVnDB-27">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="930" as="sourcePoint" />
+            <mxPoint x="280" y="890" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
