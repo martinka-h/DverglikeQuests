@@ -130,11 +130,8 @@
         <mxCell id="ac3OttQ5r9UJf8FcVnDB-45" value="&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;Journal update:&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;The alchemist didn’t want to just hand me potions. She prefers to teach me how to make them myself.&lt;br data-end=&quot;251&quot; data-start=&quot;248&quot;&gt;&lt;br&gt;I’ll need to gather honey from the bees, who have their hives in the trees.&lt;br data-end=&quot;329&quot; data-start=&quot;326&quot;&gt;&lt;br&gt;I also need Sundrop petals, which should grow on the sunny knoll behind the mayor’s house.&lt;br data-end=&quot;422&quot; data-start=&quot;419&quot;&gt;&lt;br&gt;If I’m lucky, maybe both the bees and the Sundrop can be found at the knoll.&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=left;" vertex="1" parent="1">
           <mxGeometry x="400" y="-340" width="340" height="365" as="geometry" />
         </mxCell>
-        <mxCell id="ac3OttQ5r9UJf8FcVnDB-46" value="" style="shape=stencil(fZbdcgIhDIWfZm8zQAg/17Z9j85U606tdqz9e/tmZ0c0uJ47xP0I5JwEBl59bp8/1kNwn6fj4W39M76ctgM/DCGM++36OJ50NPDjwKvN4bh+PR6+9i/z74/n6ctp9H74nlb4nbmSKZeJCu5vngmZ6jzzNAO7cX8FVKEsBuBKrgKg9oAE8gkCbLeUhEoEQKSUDZDLeWYRKIl8MEDRmHwfyBrBG6Amyu4+kDxxMoB3jhwgYu7TVAsVkFcWCs4CTBEoF4RctKeOxHIf8IXYpikHikAIf+MNUW94AGSSaoAoFIE3AlOyeWU+p2E5S9yfQZcQILVuQOwZdJNoS9Ls3wA5u2XZTIHECqeJ9kDpSaauRiNVcAY1QhdBzeLBli5WazpkSsBLV25uRaqWRyFawTQzRRIQYirJzq5atkBqLfouwqUxLBepthWb10vrWZY6UOAeyKCCtDV625mm9gmUC4Wc3VLJMMIE1BsA2FW9JraVlQB7n3c9oMKhCLEvIM1zBPZ25/umNQ1tVEC2G+fFCC8g398O2hNQuQlVu752DBfA+q0ptnqO5JFmeuIuo9DY7KjY71UxdJV4EntifPWorW++R/dC4t7V3DlIB5cHx2bc7eb3yvX//QNFp+bHDT/+Aw==);lineShape=1;strokeColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1099.9952767723983" y="1030.7944852453168" width="5.497105614253194" height="5.48851319571494" as="geometry" />
-        </mxCell>
         <mxCell id="ac3OttQ5r9UJf8FcVnDB-47" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="1120" y="230" width="1280.19" height="840" as="geometry" />
+          <mxGeometry x="1060" y="230" width="1340.19" height="840" as="geometry" />
         </mxCell>
         <mxCell id="ac3OttQ5r9UJf8FcVnDB-48" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;PotionsForTheTrail_Stage2_DialogueCluster&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1900.19" y="200" width="500" height="30" as="geometry" />
@@ -300,6 +297,18 @@
         </mxCell>
         <mxCell id="ac3OttQ5r9UJf8FcVnDB-102" value="&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;Journal update:&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;p data-end=&quot;421&quot; data-start=&quot;269&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;I learned how to make the &lt;span data-end=&quot;314&quot; data-start=&quot;295&quot;&gt;Mending Sunbrew.&lt;/span&gt; It&#39;s a simple healing potion made from honey and Sundrop petals, rumored to taste so pleasant, I might actually look forward to getting hurt,&lt;/font&gt;&lt;/p&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;br&gt;Maybe I’ll scrape my knee on purpose later… just to check.&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=left;" vertex="1" parent="1">
           <mxGeometry x="2910" y="-327.5" width="340" height="365" as="geometry" />
+        </mxCell>
+        <mxCell id="ac3OttQ5r9UJf8FcVnDB-103" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;PotionsForTheTrail_Completed_DialogueCluster&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3300.19" y="210" width="500" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ac3OttQ5r9UJf8FcVnDB-104" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="2460" y="240" width="1340.19" height="840" as="geometry" />
+        </mxCell>
+        <mxCell id="ac3OttQ5r9UJf8FcVnDB-105" value="Alchemist_Npc_Stage2_11" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2670" y="380" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ac3OttQ5r9UJf8FcVnDB-106" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;The deliciousness of the Mending Sunbrew still lingers in the air and tickles my nostrils! You made it just right, quite impressive for a first- timer. This is just the basic healing draught, since you&#39;re such a good student, I might teach you some more advanced recipes sometime, if you&#39;d like. &lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2640" y="400" width="230" height="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
