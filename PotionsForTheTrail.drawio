@@ -1,9 +1,33 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0" version="28.0.6">
   <diagram name="Page-1" id="4zDZfXnHKPZ7NhKod1eE">
-    <mxGraphModel>
+    <mxGraphModel dx="1042" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ac3OttQ5r9UJf8FcVnDB-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="135" y="250" width="240" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="ac3OttQ5r9UJf8FcVnDB-1" value="[The alchemist is hunched over a thick, dust-covered tome, muttering to herself about sporelings and myconids.]" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="135" y="130" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ac3OttQ5r9UJf8FcVnDB-2" value="1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="110" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ac3OttQ5r9UJf8FcVnDB-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ac3OttQ5r9UJf8FcVnDB-1" target="ac3OttQ5r9UJf8FcVnDB-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="240" as="sourcePoint" />
+            <mxPoint x="260" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ac3OttQ5r9UJf8FcVnDB-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ac3OttQ5r9UJf8FcVnDB-5" target="ac3OttQ5r9UJf8FcVnDB-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ac3OttQ5r9UJf8FcVnDB-5" value="First hunt today. Thought I’d need a potion or two." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="147.5" y="290" width="215" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ac3OttQ5r9UJf8FcVnDB-8" value="Alchemist_Player_Stage1_2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="270" width="170" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
