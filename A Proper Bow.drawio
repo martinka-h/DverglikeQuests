@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0" version="28.0.4">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0" version="28.0.6">
   <diagram name="Page-1" id="BGpyeeIe_iE8LkdZI5Qv">
-    <mxGraphModel dx="2339" dy="1916" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2153" dy="1814" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -530,15 +530,6 @@
         <mxCell id="VnkiPzDCxWVtJs6Gqvt7-199" value="And that pickaxe? No sense lugging it back and forth. Hang it on your belt - mountains don’t mine themselves." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="4110" y="742.5" width="240" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VnkiPzDCxWVtJs6Gqvt7-200" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="VnkiPzDCxWVtJs6Gqvt7-197" target="VnkiPzDCxWVtJs6Gqvt7-201" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="4410" y="680" as="sourcePoint" />
-            <mxPoint x="4416" y="680" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="VnkiPzDCxWVtJs6Gqvt7-201" value="Event:&lt;br&gt;Add to inventory: Axe&amp;nbsp; " style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
-          <mxGeometry x="4390" y="640" width="140" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="VnkiPzDCxWVtJs6Gqvt7-202" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="VnkiPzDCxWVtJs6Gqvt7-157" target="VnkiPzDCxWVtJs6Gqvt7-203" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="5710" y="370" as="sourcePoint" />
@@ -707,7 +698,7 @@
             <mxPoint x="7860" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VnkiPzDCxWVtJs6Gqvt7-259" value="Twenty arrows. Nothing fancy, but they’ll fly straight enough. Take them" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="VnkiPzDCxWVtJs6Gqvt7-259" value="&lt;div&gt;Twenty arrows. Nothing fancy, but they’ll fly straight enough. Take them.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="7560" y="520" width="260" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VnkiPzDCxWVtJs6Gqvt7-260" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="VnkiPzDCxWVtJs6Gqvt7-259" target="VnkiPzDCxWVtJs6Gqvt7-261" edge="1">
@@ -722,38 +713,44 @@
         <mxCell id="VnkiPzDCxWVtJs6Gqvt7-262" value="&lt;font style=&quot;font-size: 50px;&quot;&gt;Todo: Stump &amp;amp; Torstein after quest replies&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="7040" y="-570" width="1430" height="550" as="geometry" />
         </mxCell>
-        <mxCell id="lFPYa5K90Pf4Mlpy7Q-W-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="lFPYa5K90Pf4Mlpy7Q-W-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="-840" y="200" width="570" height="585" as="geometry" />
         </mxCell>
-        <mxCell id="lFPYa5K90Pf4Mlpy7Q-W-2" value="Filler dialogue when Stage 1 completed &amp;amp;&amp;amp; Stage 7 not completed" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="lFPYa5K90Pf4Mlpy7Q-W-2" value="Filler dialogue when Stage 1 completed &amp;amp;&amp;amp; Stage 7 not completed" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-809" y="220" width="519" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="lFPYa5K90Pf4Mlpy7Q-W-3" value="&lt;div&gt;You want that bow ready today or are we waiting &#39;til winter?&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="lFPYa5K90Pf4Mlpy7Q-W-3" value="&lt;div&gt;You want that bow ready today or are we waiting &#39;til winter?&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-694.5" y="295" width="279" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lFPYa5K90Pf4Mlpy7Q-W-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VnkiPzDCxWVtJs6Gqvt7-102" target="lFPYa5K90Pf4Mlpy7Q-W-7">
+        <mxCell id="lFPYa5K90Pf4Mlpy7Q-W-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="VnkiPzDCxWVtJs6Gqvt7-102" target="lFPYa5K90Pf4Mlpy7Q-W-7" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2390" y="610" as="sourcePoint" />
             <mxPoint x="2435" y="446" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lFPYa5K90Pf4Mlpy7Q-W-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VnkiPzDCxWVtJs6Gqvt7-102" target="lFPYa5K90Pf4Mlpy7Q-W-7">
+        <mxCell id="lFPYa5K90Pf4Mlpy7Q-W-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="VnkiPzDCxWVtJs6Gqvt7-102" target="lFPYa5K90Pf4Mlpy7Q-W-7" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2320" y="535" as="sourcePoint" />
             <mxPoint x="2635" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lFPYa5K90Pf4Mlpy7Q-W-7" value="Event: &lt;br&gt;Stage 2 Spoke with Torstein" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="lFPYa5K90Pf4Mlpy7Q-W-7" value="Event: &lt;br&gt;Stage 2 Spoke with Torstein" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="2380" y="495" width="189.17" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="lFPYa5K90Pf4Mlpy7Q-W-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lFPYa5K90Pf4Mlpy7Q-W-7" target="VnkiPzDCxWVtJs6Gqvt7-110">
+        <mxCell id="lFPYa5K90Pf4Mlpy7Q-W-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="lFPYa5K90Pf4Mlpy7Q-W-7" target="VnkiPzDCxWVtJs6Gqvt7-110" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2670" y="670" as="sourcePoint" />
             <mxPoint x="2720" y="620" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lFPYa5K90Pf4Mlpy7Q-W-10" value="Quest will update to stage 3 if Player has both the tag and the axe.&lt;br&gt;The axe will get removed from inventory on stage 2 completion." style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+        <mxCell id="lFPYa5K90Pf4Mlpy7Q-W-10" value="Quest will update to stage 3 if Player has both the tag and the axe.&lt;br&gt;The axe will get removed from inventory on stage 2 completion." style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" parent="1" vertex="1">
           <mxGeometry x="2390.52" y="555" width="168.13" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="TXavzD8C4soLixsV-Gdu-1" value="Filler dialogue after A Proper Bow is completed" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-809" y="390" width="519" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="TXavzD8C4soLixsV-Gdu-2" value="How&#39;s that new bow treating you?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-694.5" y="450" width="279" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
