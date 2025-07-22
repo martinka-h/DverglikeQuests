@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0" version="28.0.6">
   <diagram name="Page-1" id="4zDZfXnHKPZ7NhKod1eE">
-    <mxGraphModel dx="2090" dy="1784" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2008" dy="1734" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -19,7 +19,7 @@
         <mxCell id="ac3OttQ5r9UJf8FcVnDB-1" value="[The alchemist is hunched over a thick, dust-covered tome, muttering to herself about sporelings, myconids and... explosives?]" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="135" y="130" width="240" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ac3OttQ5r9UJf8FcVnDB-2" value="1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ac3OttQ5r9UJf8FcVnDB-2" value="Salvie_Npc_Stage1_1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="110" width="170" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ac3OttQ5r9UJf8FcVnDB-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ac3OttQ5r9UJf8FcVnDB-1" target="ac3OttQ5r9UJf8FcVnDB-8">
@@ -31,7 +31,7 @@
         <mxCell id="ac3OttQ5r9UJf8FcVnDB-5" value="First hunt today. Thought I’d need a potion or two." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="147.5" y="290" width="215" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ac3OttQ5r9UJf8FcVnDB-8" value="Alchemist_Player_Stage1_2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ac3OttQ5r9UJf8FcVnDB-8" value="Salvie_Player_Stage1_2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="270" width="170" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ac3OttQ5r9UJf8FcVnDB-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ac3OttQ5r9UJf8FcVnDB-5" target="ac3OttQ5r9UJf8FcVnDB-14">
@@ -40,13 +40,13 @@
             <mxPoint x="430" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ac3OttQ5r9UJf8FcVnDB-13" value="&lt;div&gt;Alchemist_Npc_Stage1_3&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ac3OttQ5r9UJf8FcVnDB-13" value="&lt;div&gt;Salvie_Npc_Stage1_3&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="475" y="260" width="170" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ac3OttQ5r9UJf8FcVnDB-14" value="Potions, huh? I can make them for you, sure." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="280" width="240" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ac3OttQ5r9UJf8FcVnDB-15" value="&lt;div&gt;Alchemist_Npc_Stage1_4&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ac3OttQ5r9UJf8FcVnDB-15" value="&lt;div&gt;Salvie_Npc_Stage1_4&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="475" y="400" width="170" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ac3OttQ5r9UJf8FcVnDB-16" value="But it’s really simple once you know the recipe. Let me show you how to make your own. That way, next time you get hurt out there, you won’t have to come running back." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -58,7 +58,7 @@
             <mxPoint x="780" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ac3OttQ5r9UJf8FcVnDB-18" value="Alchemist_Player_Stage1_5" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ac3OttQ5r9UJf8FcVnDB-18" value="Salvie_Player_Stage1_5" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="550" width="170" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ac3OttQ5r9UJf8FcVnDB-19" value="Okay, what do I do?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -302,7 +302,7 @@
           <mxGeometry x="3300.19" y="210" width="500" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ac3OttQ5r9UJf8FcVnDB-104" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="2460" y="240" width="1340.19" height="840" as="geometry" />
+          <mxGeometry x="2460" y="240" width="1340.19" height="960" as="geometry" />
         </mxCell>
         <mxCell id="ac3OttQ5r9UJf8FcVnDB-105" value="Alchemist_Npc_16" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2660" y="320" width="170" height="20" as="geometry" />
@@ -311,13 +311,13 @@
           <mxGeometry x="2630" y="340" width="230" height="170" as="geometry" />
         </mxCell>
         <mxCell id="ac3OttQ5r9UJf8FcVnDB-107" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2625" y="580" width="240" height="250" as="geometry" />
+          <mxGeometry x="2625" y="580" width="240" height="580" as="geometry" />
         </mxCell>
         <mxCell id="ac3OttQ5r9UJf8FcVnDB-108" value="Alchemist_Player_17" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2660" y="600" width="170" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ac3OttQ5r9UJf8FcVnDB-109" value="So who&#39;s Master Bryggvar?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2637.5" y="620" width="215" height="60" as="geometry" />
+        <mxCell id="ac3OttQ5r9UJf8FcVnDB-109" value="Who&#39;s Master Bryggvar?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2637.5" y="620" width="215" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ac3OttQ5r9UJf8FcVnDB-110" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ac3OttQ5r9UJf8FcVnDB-106" target="ac3OttQ5r9UJf8FcVnDB-107">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -332,10 +332,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ac3OttQ5r9UJf8FcVnDB-113" value="Alchemist_Npc_18" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3020" y="567.5" width="170" height="20" as="geometry" />
+          <mxGeometry x="3020" y="560" width="170" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ac3OttQ5r9UJf8FcVnDB-114" value="Only the greatest alchemist ever known! We were close... Oh yes... We shared more than just herbs and vials. I hope he is still out there, somewhere, reminiscing our nights by the campfire, just like I do... " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2990" y="587.5" width="230" height="125" as="geometry" />
+          <mxGeometry x="2990" y="580" width="230" height="125" as="geometry" />
         </mxCell>
         <mxCell id="ac3OttQ5r9UJf8FcVnDB-116" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ac3OttQ5r9UJf8FcVnDB-114" target="ac3OttQ5r9UJf8FcVnDB-117">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -358,32 +358,42 @@
         <mxCell id="ac3OttQ5r9UJf8FcVnDB-121" value="I don&#39;t think I want to know anything more..." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2997.5" y="870" width="215" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ac3OttQ5r9UJf8FcVnDB-122" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ac3OttQ5r9UJf8FcVnDB-121" target="ac3OttQ5r9UJf8FcVnDB-107">
+        <mxCell id="ac3OttQ5r9UJf8FcVnDB-122" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.992;entryY=0.534;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ac3OttQ5r9UJf8FcVnDB-121" target="ac3OttQ5r9UJf8FcVnDB-107">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2920" y="850" as="sourcePoint" />
             <mxPoint x="2970" y="800" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="2745" y="890" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ac3OttQ5r9UJf8FcVnDB-123" value="I&#39;m not sure... One morning his workshop stood empty. He vanished, and I searched every trail I could think of, asked every caravan that passed through. Found no footprints, no torn cloak, not even an empty bottle. &lt;br&gt; " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3260" y="757.5" width="230" height="102.5" as="geometry" />
+          <mxGeometry x="3310" y="757.5" width="230" height="102.5" as="geometry" />
         </mxCell>
         <mxCell id="ac3OttQ5r9UJf8FcVnDB-124" value="&lt;div&gt;Alchemist_Npc_21&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3290" y="737.5" width="170" height="20" as="geometry" />
+          <mxGeometry x="3340" y="737.5" width="170" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ac3OttQ5r9UJf8FcVnDB-125" value="After a year of silence I packed my things, came here, and set up shop. Part of me still wonders if I should have stayed longer… just in case he ever came back." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3260" y="917.5" width="230" height="85" as="geometry" />
+          <mxGeometry x="3310" y="917.5" width="230" height="85" as="geometry" />
         </mxCell>
         <mxCell id="ac3OttQ5r9UJf8FcVnDB-126" value="&lt;div&gt;Alchemist_Npc_22&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3290" y="897.5" width="170" height="20" as="geometry" />
+          <mxGeometry x="3340" y="897.5" width="170" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ac3OttQ5r9UJf8FcVnDB-127" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ac3OttQ5r9UJf8FcVnDB-123" target="ac3OttQ5r9UJf8FcVnDB-126">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="3590" y="880" as="sourcePoint" />
             <mxPoint x="3640" y="830" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="ac3OttQ5r9UJf8FcVnDB-128" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ac3OttQ5r9UJf8FcVnDB-119" target="ac3OttQ5r9UJf8FcVnDB-123">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3350" y="670" as="sourcePoint" />
+            <mxPoint x="3400" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ac3OttQ5r9UJf8FcVnDB-129" value="Farewell." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2637.5" y="1080" width="215" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ac3OttQ5r9UJf8FcVnDB-130" value="&lt;div&gt;Alchemist_Player_23&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2660" y="1060" width="170" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
