@@ -1,9 +1,332 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0" version="28.0.7">
   <diagram name="Page-1" id="ygGUG9iz0cwdDXaC5-fw">
-    <mxGraphModel>
+    <mxGraphModel dx="1587" dy="2052" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="QshUCWCYe8FsbwrVPs3p-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="70" width="1490" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="QshUCWCYe8FsbwrVPs3p-2" value="Stage 1:&lt;br&gt;&lt;br&gt;&lt;div align=&quot;left&quot;&gt;- Acquire some potions from Salvie, the alchemist. &lt;br&gt;(tag: PotionsForTheTrails.Completed.Quest)&lt;br&gt;&lt;br&gt;- Collect your new bow from Stump, the bowyer.&lt;br&gt;(tag: AProperBow.Completed.Quest)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=1;perimeterSpacing=0;spacingLeft=16;" vertex="1" parent="1">
+          <mxGeometry x="45" y="100" width="240" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="QshUCWCYe8FsbwrVPs3p-5" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QshUCWCYe8FsbwrVPs3p-3" target="QshUCWCYe8FsbwrVPs3p-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="165" as="sourcePoint" />
+            <mxPoint x="317.5" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QshUCWCYe8FsbwrVPs3p-7" value="&lt;div align=&quot;center&quot;&gt;Stage 2:&lt;br&gt;&lt;/div&gt;&lt;br&gt;&lt;div&gt;- Find the hunter at the archery range.&lt;br&gt;(tag: FirstHunt.Completed.Stage2)&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;align=left;fillColor=#fff2cc;strokeColor=#d6b656;spacingLeft=16;" vertex="1" parent="1">
+          <mxGeometry x="750" y="100" width="240" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="QshUCWCYe8FsbwrVPs3p-3" value="Stage 1 Journal note:&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="310" y="100" width="160" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="QshUCWCYe8FsbwrVPs3p-9" value="Give tag: FirstHunt.Completed.Stage2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="190" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QshUCWCYe8FsbwrVPs3p-10" value="Condition:&lt;br&gt;No tags match&lt;br&gt;FirstHunt.Completed.Stage1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="530" width="230" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QshUCWCYe8FsbwrVPs3p-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QshUCWCYe8FsbwrVPs3p-10" target="QshUCWCYe8FsbwrVPs3p-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="580" as="sourcePoint" />
+            <mxPoint x="350" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QshUCWCYe8FsbwrVPs3p-12" value="Ah, young hunter! Glad you&#39;re here, but the forest won&#39;t be kind if &lt;br&gt;you rush in unprepared. Have you eaten? Brewed your potions? Equipped your bow? Go take care of that, then come find me." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="520" width="240" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="QshUCWCYe8FsbwrVPs3p-13" value="&lt;div&gt;Pony_Stage1_1&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="500" width="220" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QshUCWCYe8FsbwrVPs3p-16" value="Give tag: &lt;br&gt;FirstHunt.Completed.Stage1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="180" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QshUCWCYe8FsbwrVPs3p-17" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="990" y="224.5" as="sourcePoint" />
+            <mxPoint x="1270" y="224.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QshUCWCYe8FsbwrVPs3p-18" value="Condition:&lt;br&gt;Any tags match:&lt;br&gt;FirstHunt.Completed.Stage1&lt;br&gt;&lt;div&gt;&amp;amp;&amp;amp;&lt;br&gt;No tags match:&lt;br&gt;FirstHunt.Completed.Stage2&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="517.5" width="230" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="QshUCWCYe8FsbwrVPs3p-19" value="You look fed and well equipped. Anything on your mind before we go? Once we step into the woods, we keep quiet. Wouldn&#39;t want to spook the hares... " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="970" y="520" width="240" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="QshUCWCYe8FsbwrVPs3p-20" value="&lt;div&gt;Pony_Stage2_2&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="980" y="500" width="220" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QshUCWCYe8FsbwrVPs3p-21" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QshUCWCYe8FsbwrVPs3p-18" target="QshUCWCYe8FsbwrVPs3p-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="880" y="740" as="sourcePoint" />
+            <mxPoint x="930" y="690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QshUCWCYe8FsbwrVPs3p-22" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="970" y="670" width="240" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="QshUCWCYe8FsbwrVPs3p-23" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QshUCWCYe8FsbwrVPs3p-19" target="QshUCWCYe8FsbwrVPs3p-22">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1290" y="620" as="sourcePoint" />
+            <mxPoint x="1340" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QshUCWCYe8FsbwrVPs3p-24" value="Stage 1: Complete the 3 intro quests" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry y="-450" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QshUCWCYe8FsbwrVPs3p-26" value="Stage 2: Meet the hunter at the archery range" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="320" y="-450" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QshUCWCYe8FsbwrVPs3p-27" value="Stage 3: Train your skills at the archery range until everyone is gathered" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="880" y="-450" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QshUCWCYe8FsbwrVPs3p-29" value="Stage 4: Follow Pony to the hunting spot" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="1520" y="-450" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QshUCWCYe8FsbwrVPs3p-30" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QshUCWCYe8FsbwrVPs3p-24" target="QshUCWCYe8FsbwrVPs3p-26">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="-240" as="sourcePoint" />
+            <mxPoint x="340" y="-290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QshUCWCYe8FsbwrVPs3p-32" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QshUCWCYe8FsbwrVPs3p-42" target="QshUCWCYe8FsbwrVPs3p-29">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="590" y="-290" as="sourcePoint" />
+            <mxPoint x="640" y="-340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QshUCWCYe8FsbwrVPs3p-33" value="If the player leaves the archery range" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="-570" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QshUCWCYe8FsbwrVPs3p-34" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="QshUCWCYe8FsbwrVPs3p-27" target="QshUCWCYe8FsbwrVPs3p-33">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="820" y="-260" as="sourcePoint" />
+            <mxPoint x="870" y="-310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QshUCWCYe8FsbwrVPs3p-35" value="Remove tag:&lt;br&gt;FirstHunt.Completed.Stage2" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="860" y="-680" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QshUCWCYe8FsbwrVPs3p-36" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" target="QshUCWCYe8FsbwrVPs3p-37" parent="1" source="QshUCWCYe8FsbwrVPs3p-26">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="-215" as="sourcePoint" />
+            <mxPoint x="430" y="-100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QshUCWCYe8FsbwrVPs3p-37" value="Add tag:&lt;br&gt;FirstHunt.Completed.Stage2" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="-465" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QshUCWCYe8FsbwrVPs3p-38" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QshUCWCYe8FsbwrVPs3p-37" target="QshUCWCYe8FsbwrVPs3p-27">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="870" y="-310" as="sourcePoint" />
+            <mxPoint x="920" y="-360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QshUCWCYe8FsbwrVPs3p-39" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="QshUCWCYe8FsbwrVPs3p-33" target="QshUCWCYe8FsbwrVPs3p-35">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="780" y="-610" as="sourcePoint" />
+            <mxPoint x="830" y="-660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QshUCWCYe8FsbwrVPs3p-40" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QshUCWCYe8FsbwrVPs3p-35" target="QshUCWCYe8FsbwrVPs3p-37">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="630" y="-640" as="sourcePoint" />
+            <mxPoint x="680" y="-690" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="660" y="-640" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QshUCWCYe8FsbwrVPs3p-45" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QshUCWCYe8FsbwrVPs3p-27" target="QshUCWCYe8FsbwrVPs3p-42">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1040" y="-425" as="sourcePoint" />
+            <mxPoint x="1440" y="-425" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QshUCWCYe8FsbwrVPs3p-42" value="If there is an equal amount of player controllers in the vicinity of Pony, as there are players in the game&lt;br&gt;&amp;amp;&amp;amp;&lt;br&gt;Every player has the tag FirstHunt.Completed.Stage2 =&amp;gt; &lt;br&gt;Give tag FirstHunt.Completed.Stage3 &amp;amp;&amp;amp; Update the quest to Stage 4" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="-475" width="290" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="QshUCWCYe8FsbwrVPs3p-46" value="If the player leaves runs too far away" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1520" y="-570" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QshUCWCYe8FsbwrVPs3p-47" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="QshUCWCYe8FsbwrVPs3p-29" target="QshUCWCYe8FsbwrVPs3p-46">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1740" y="-370" as="sourcePoint" />
+            <mxPoint x="1790" y="-420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QshUCWCYe8FsbwrVPs3p-48" value="Darken the screen for the player" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1500" y="-680" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QshUCWCYe8FsbwrVPs3p-49" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="QshUCWCYe8FsbwrVPs3p-46" target="QshUCWCYe8FsbwrVPs3p-48">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1690" y="-580" as="sourcePoint" />
+            <mxPoint x="1740" y="-630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QshUCWCYe8FsbwrVPs3p-50" value="Stage 5: Join Pony and the group." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="1760" y="-350" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QshUCWCYe8FsbwrVPs3p-51" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="QshUCWCYe8FsbwrVPs3p-48" target="QshUCWCYe8FsbwrVPs3p-52">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1640" y="-780" as="sourcePoint" />
+            <mxPoint x="1600" y="-800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QshUCWCYe8FsbwrVPs3p-52" value="Update quest stage to Stage 5 for the player that has left " style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1500" y="-790" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QshUCWCYe8FsbwrVPs3p-53" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QshUCWCYe8FsbwrVPs3p-29" target="QshUCWCYe8FsbwrVPs3p-50">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1740" y="-420" as="sourcePoint" />
+            <mxPoint x="1790" y="-470" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1600" y="-325" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QshUCWCYe8FsbwrVPs3p-54" value="Stage 6: Wait for everyone to join the group." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="1760" y="-260" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QshUCWCYe8FsbwrVPs3p-55" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="QshUCWCYe8FsbwrVPs3p-54">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1600" y="-320" as="sourcePoint" />
+            <mxPoint x="1710" y="-330" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1600" y="-235" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QshUCWCYe8FsbwrVPs3p-56" value="Update quest stage to Stage 6 for the players that are waiting" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1500" y="-900" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QshUCWCYe8FsbwrVPs3p-57" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="QshUCWCYe8FsbwrVPs3p-52" target="QshUCWCYe8FsbwrVPs3p-56">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1820" y="-690" as="sourcePoint" />
+            <mxPoint x="1870" y="-740" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QshUCWCYe8FsbwrVPs3p-58" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="QshUCWCYe8FsbwrVPs3p-50">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2000" y="-270" as="sourcePoint" />
+            <mxPoint x="2040" y="-290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QshUCWCYe8FsbwrVPs3p-59" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="QshUCWCYe8FsbwrVPs3p-54">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2000" y="-190" as="sourcePoint" />
+            <mxPoint x="2040" y="-270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QshUCWCYe8FsbwrVPs3p-60" value="If all players are present again" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2040" y="-310" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QshUCWCYe8FsbwrVPs3p-61" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="QshUCWCYe8FsbwrVPs3p-60" target="QshUCWCYe8FsbwrVPs3p-29">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2140" y="-220" as="sourcePoint" />
+            <mxPoint x="2190" y="-270" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2120" y="-160" />
+              <mxPoint x="1560" y="-160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QshUCWCYe8FsbwrVPs3p-62" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QshUCWCYe8FsbwrVPs3p-65" target="QshUCWCYe8FsbwrVPs3p-63">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1940" y="-450" as="sourcePoint" />
+            <mxPoint x="1990" y="-500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QshUCWCYe8FsbwrVPs3p-63" value="Stage 7: Hunt hares" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="2320" y="-450" width="230" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QshUCWCYe8FsbwrVPs3p-64" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QshUCWCYe8FsbwrVPs3p-29" target="QshUCWCYe8FsbwrVPs3p-65">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1680" y="-425" as="sourcePoint" />
+            <mxPoint x="1980" y="-425" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QshUCWCYe8FsbwrVPs3p-65" value="When Pony has reached the goal give game tag =&amp;gt;&lt;br&gt; Give tag: Intro.Quest.FirstHunt.ArrivedAtHuntingSpot&lt;br&gt;&amp;amp;&amp;amp;&lt;br&gt;Update quest to Stage 7&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1880" y="-472.5" width="260" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="QshUCWCYe8FsbwrVPs3p-67" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="QshUCWCYe8FsbwrVPs3p-63" target="QshUCWCYe8FsbwrVPs3p-68">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2520" y="-300" as="sourcePoint" />
+            <mxPoint x="2570" y="-350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QshUCWCYe8FsbwrVPs3p-68" value="Start countdown until cutscene" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="2280" y="-285" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QshUCWCYe8FsbwrVPs3p-69" value="If the player leaves runs too faraway" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2355" y="-570" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QshUCWCYe8FsbwrVPs3p-70" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="QshUCWCYe8FsbwrVPs3p-63" target="QshUCWCYe8FsbwrVPs3p-69">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2490" y="-250" as="sourcePoint" />
+            <mxPoint x="2540" y="-300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QshUCWCYe8FsbwrVPs3p-72" value="Darken the screen for the player" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="2335" y="-680" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QshUCWCYe8FsbwrVPs3p-73" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="QshUCWCYe8FsbwrVPs3p-69" target="QshUCWCYe8FsbwrVPs3p-72">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1990" y="-660" as="sourcePoint" />
+            <mxPoint x="2040" y="-710" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QshUCWCYe8FsbwrVPs3p-74" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="QshUCWCYe8FsbwrVPs3p-75">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2532.5" y="-400" as="sourcePoint" />
+            <mxPoint x="2680" y="-450" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2533" y="-325" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QshUCWCYe8FsbwrVPs3p-75" value="Stage 8: Join the others by Pony&#39;s hunting hut" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="2600" y="-350" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QshUCWCYe8FsbwrVPs3p-77" value="Update quest stage to Stage 8 for the player that has left " style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="2335" y="-790" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QshUCWCYe8FsbwrVPs3p-78" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="QshUCWCYe8FsbwrVPs3p-72" target="QshUCWCYe8FsbwrVPs3p-77">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2110" y="-680" as="sourcePoint" />
+            <mxPoint x="2160" y="-730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QshUCWCYe8FsbwrVPs3p-79" value="If the player has returned" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2600" y="-265" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QshUCWCYe8FsbwrVPs3p-80" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QshUCWCYe8FsbwrVPs3p-75" target="QshUCWCYe8FsbwrVPs3p-79">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2900" y="-280" as="sourcePoint" />
+            <mxPoint x="2950" y="-330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QshUCWCYe8FsbwrVPs3p-81" value="Give tag: &lt;br&gt;FirstHunt.Completed.Stage8 &lt;br&gt;=&amp;gt; &lt;br&gt;Update quest Stage to Stage 7" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="2580" y="-180" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QshUCWCYe8FsbwrVPs3p-82" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QshUCWCYe8FsbwrVPs3p-79" target="QshUCWCYe8FsbwrVPs3p-81">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2790" y="-230" as="sourcePoint" />
+            <mxPoint x="2840" y="-280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QshUCWCYe8FsbwrVPs3p-83" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="QshUCWCYe8FsbwrVPs3p-81" target="QshUCWCYe8FsbwrVPs3p-63">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2810" y="-140" as="sourcePoint" />
+            <mxPoint x="2860" y="-190" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2680" y="-70" />
+              <mxPoint x="2493" y="-70" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
